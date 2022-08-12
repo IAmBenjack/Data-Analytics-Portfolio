@@ -3,7 +3,7 @@ In this program, I learnt foundational data skills that apply across functions a
 
 # Project 1: Interpret a Data Visualization
 In this project, I explored an interactive data dashboard to uncover insights, wrote a short report explaining each insight and how I found the information to reach my conclusion from the dashboard.
-[Link to Visualization](https://public.tableau.com/app/profile/matt.chambers/viz/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
+\[Link to Visualization](https://public.tableau.com/app/profile/matt.chambers/viz/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 ## Interpretation page 1
 ![Annotation 2022-08-12 230707](https://user-images.githubusercontent.com/110986193/184453407-3f0e13c1-1873-4cb8-a70f-b86b04d83c3d.png)
 ## Interpretation page 2

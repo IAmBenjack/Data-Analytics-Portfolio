@@ -20,9 +20,9 @@ In this project, I used Excel skills to manipulate, analyze, and visualize data 
 ![Annotation 2022-08-13 000514](https://user-images.githubusercontent.com/110986193/184456317-b4345d92-df25-44d6-b332-1b9b43dbae4f.png)
 * I computed the measures of center and spread, and numeric summary statistic and used them to generate insights.
 ![Annotation 2022-08-13 000607](https://user-images.githubusercontent.com/110986193/184456316-935604d9-5445-46ff-9945-89516811cd42.png)
-* I used the AVERAGE and STDEV.S for the ranges of values from the past 4 years to compute the scenario forecast (strong, weak, and base cases) figures for the future years in the "Forecasting_Model & Scenarios" sheet of the excel workbook.
+* I used the AVERAGE and STDEV.S for the ranges of values from the past 4 years to compute the scenario forecast (strong, weak, and base cases) figures for the future years that could be filtered by any company of your choice and any scenario of your choice in the "Forecasting_Model & Scenarios" sheet of the excel workbook.
 ![Annotation 2022-08-13 000958](https://user-images.githubusercontent.com/110986193/184456311-e8d9333c-e37b-4478-8707-75ca2c2e8073.png)
-* I used INDEX and MATCH statements, OFFSET and MATCH functions to create Profit and Loss statement that could be filtered by any company of my choice.
+* I used INDEX and MATCH statements, OFFSET and MATCH functions to create Profit and Loss statement that could be filtered by any company of your choice in the P&L Worksheet of the Workbook.
 ![Annotation 2022-08-13 000825](https://user-images.githubusercontent.com/110986193/184456313-70a7cb6a-16fe-4984-8d1b-e04a0692afa7.png)
 
 # Project 3: Query a Digital Music Store Database

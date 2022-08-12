@@ -5,8 +5,9 @@ In this program, I learnt foundational data skills that apply across functions a
 In this project, I explored an interactive data dashboard to uncover insights, wrote a short report explaining each insight and how I found the information to reach my conclusion from the dashboard.
 [Link to Visualization] (https://public.tableau.com/app/profile/matt.chambers/viz/LinkedInTopSkills2016-MakeoverMonday/LinkedInTopSkills2016-MakeoverMonday)
 ##Interpretation given to data the data
-https://github.com/IAmBenjack/Udacity-Business-Analytics-Nano-Degree-Projects/blob/main/Annotation%202022-08-12%20230707.png
-https://github.com/IAmBenjack/Udacity-Business-Analytics-Nano-Degree-Projects/blob/main/Annotation%202022-08-12%20230749.png?raw=true
+![](Udacity-Business-Analytics-Nano-Degree-Projects/Annotation 2022-08-12 230707.png)
+![](Udacity-Business-Analytics-Nano-Degree-Projects/Annotation 2022-08-12 230749.png)
+
 
 # Project 2: Analyze NYSE Data
 In this project, I used statistics and visuals to find and communicate insights, Used Excel skills to manipulate, analyze, and visualize data from over 500 companies on the New York Stock Exchange in a spreadsheet, Built Excel models to analyze possible business outcomes, and Forecasted financial metrics based on three possible scenarios for various companies of my choice from the NYSE dataset.

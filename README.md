@@ -41,7 +41,7 @@ In this project, I queried a digital music store database which holds informatio
 <br />![Annotation 2022-08-13 010551](https://user-images.githubusercontent.com/110986193/184459179-e584a2f5-fa9f-4f6b-8582-0f54ae1bdc29.png)
 
 <br />[Report for SQL project](https://github.com/IAmBenjack/Data-Analytics-Portfolio/files/9330323/Report.for.project.3.pdf)
-* I created a report with the appropriate titles, charts that are easy to read, and descriptions that are good to understand the data.
+* I created a report with the appropriate titles, charts that are easy to read, and descriptions that are good to understand.
 <br />![Annotation 2022-08-13 010644](https://user-images.githubusercontent.com/110986193/184459176-6057b4a5-c3cb-4a28-a93a-db8a5f30b5d1.png)
 <br />![Annotation 2022-08-13 010713](https://user-images.githubusercontent.com/110986193/184459174-a41331b7-c2da-4614-a73d-53392e5330eb.png)
 <br />![Annotation 2022-08-13 010801](https://user-images.githubusercontent.com/110986193/184459173-19afb5d4-9235-4ad2-b8ad-0a5258980b77.png)

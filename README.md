@@ -53,21 +53,21 @@ In this project, I queried a digital music store database which holds informatio
 In this project, I applied design and visualization principles to create impactful data visualizations, built data dashboards, and told stories with the data, Built interactive dashboards with Tableau and used them to discover and communicate insights from a dataset of flight delays in the US to visualize reasons for delays, causes of flight cancellation, find the average airtime spent by each airline, and more.
 <br />[Link to ProjectData](https://video.udacity-data.com/topher/2017/November/5a1f4b2f_flight-delays/flight-delays.zip)
 #### Visualization_1
-<br />[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/ChartforAverageDelayTypes/AverageDelaysbyType)
+[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/ChartforAverageDelayTypes/AverageDelaysbyType)
 <br />![Annotation 2022-08-13 122933](https://user-images.githubusercontent.com/110986193/184491970-8df6f5b6-bad1-4148-9fd1-5ce9f5b7d000.png)
 
 #### Visualization_2
-<br />[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/Monthlydelaysstackedbarchart/MonthlyDelaysbyType)
+[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/Monthlydelaysstackedbarchart/MonthlyDelaysbyType)
 <br />![Annotation 2022-08-13 123616](https://user-images.githubusercontent.com/110986193/184491953-f6509e4e-6d21-4ac5-8cab-ab7abb4f9c94.png)
 
 #### Dashboard Visualizatio_3
-<br />[Link to Dashboard](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/ReasonsforDelayandCausesofFlightCancellation/Dashboard1)
+[Link to Dashboard](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/ReasonsforDelayandCausesofFlightCancellation/Dashboard1)
 <br />![Annotation 2022-08-13 123655](https://user-images.githubusercontent.com/110986193/184491946-104dd28b-ada8-4ce5-a4e2-c5bac6ff76c2.png)
 
 #### Visualization_4
-<br />[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/DailyTrendLineforArrivalandDepartureschedules/AverageDepatureandArrivalScheduleTrend)
+[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/DailyTrendLineforArrivalandDepartureschedules/AverageDepatureandArrivalScheduleTrend)
 <br />![Annotation 2022-08-13 123732](https://user-images.githubusercontent.com/110986193/184491930-22912cc2-be97-452c-bdca-4d4cb82f371f.png)
 
 #### Visualization_5
-<br />[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/TreemapforAverageAirtimespentbyAirlines/AverageAirtimebyAirlines)
+[Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/TreemapforAverageAirtimespentbyAirlines/AverageAirtimebyAirlines)
 <br />![Annotation 2022-08-13 123814](https://user-images.githubusercontent.com/110986193/184491977-866e8da3-2fc2-4f25-bbb6-de3fe6c3924b.png)

@@ -12,7 +12,7 @@ In this project, I explored an interactive data dashboard to uncover insights, w
 
 # Project 2: Analyze NYSE Data
 In this project, I used Excel skills to manipulate, analyze, and visualize data from over 500 companies on the New York Stock Exchange in a spreadsheet, Built Excel models to analyze possible business outcomes, and Forecasted financial metrics based on three possible scenarios for various companies of my choice from the NYSE dataset.
-<br />[Link to ProjectData](https://video.udacity-data.com/topher/2018/October/5bc0f2d2_projectdata-nyse/projectdata-nyse.csv)
+<br />[Link to ProjectData]()(https://video.udacity-data.com/topher/2018/October/5bc0f2d2_projectdata-nyse/projectdata-nyse.csv)
 <br />[Link to Excel Workbook for the Project](https://github.com/IAmBenjack/Data-Analytics-Portfolio/files/9330218/workbook.for.Project.2.xlsx)
 <br />Project Report
 ![Annotation 2022-08-13 001949](https://user-images.githubusercontent.com/110986193/184456307-d3ba2baf-10d7-4b8b-9f27-b3455bd0868e.png)
@@ -27,6 +27,20 @@ In this project, I used Excel skills to manipulate, analyze, and visualize data 
 
 # Project 3: Query a Digital Music Store Database
 In this project, I queried a digital music store database which holds information regarding the store’s media, employees, and customers, and Extracted and analyzed data stored in databases to help the store gain an understanding of the types of music that were purchased, where customers live, and how the company might optimize their business practices.
+<br />[Link to ProjectData](https://video.udacity-data.com/topher/2021/March/6053d783_chinook-db/chinook-db.zip)
+[SQL Queries File](https://github.com/IAmBenjack/Data-Analytics-Portfolio/files/9330325/Queries.txt)
+![Annotation 2022-08-13 010213](https://user-images.githubusercontent.com/110986193/184459186-afce8bc9-97b2-4c79-9956-6623b7526644.png)
+![Annotation 2022-08-13 010120](https://user-images.githubusercontent.com/110986193/184459188-d2a4131f-c641-4714-97ad-1b60c6045d7f.png)
+[Excel Analysis and Visualization](https://github.com/IAmBenjack/Data-Analytics-Portfolio/files/9330324/Excel.Analysis.and.Visualization.xlsx)
+![Annotation 2022-08-13 010551](https://user-images.githubusercontent.com/110986193/184459179-e584a2f5-fa9f-4f6b-8582-0f54ae1bdc29.png)
+![Annotation 2022-08-13 010527](https://user-images.githubusercontent.com/110986193/184459180-b72c1ec6-06ff-4bcb-9930-f7abaa0b562b.png)
+![Annotation 2022-08-13 010504](https://user-images.githubusercontent.com/110986193/184459182-3de8b48f-e034-4479-b675-c57863840940.png)
+![Annotation 2022-08-13 010437](https://user-images.githubusercontent.com/110986193/184459185-c01f5ee8-b606-4aee-8001-f9da8b0d3886.png)
+[Report for project 3.pdf](https://github.com/IAmBenjack/Data-Analytics-Portfolio/files/9330323/Report.for.project.3.pdf)
+![Annotation 2022-08-13 010830](https://user-images.githubusercontent.com/110986193/184459165-8d4417a2-fbb6-4874-86eb-a5ed2f269146.png)
+![Annotation 2022-08-13 010801](https://user-images.githubusercontent.com/110986193/184459173-19afb5d4-9235-4ad2-b8ad-0a5258980b77.png)
+![Annotation 2022-08-13 010713](https://user-images.githubusercontent.com/110986193/184459174-a41331b7-c2da-4614-a73d-53392e5330eb.png)
+![Annotation 2022-08-13 010644](https://user-images.githubusercontent.com/110986193/184459176-6057b4a5-c3cb-4a28-a93a-db8a5f30b5d1.png)
 
 # Project 4 Build Data Dashboards
 In this project, I applied design and visualization principles to create impactful data visualizations, built data dashboards, and told stories with the data, Built interactive dashboards with Tableau and used them to discover and communicate insights from a dataset of flight delays in the US to visualize reasons for delays, causes of flight cancellation, find the average airtime spent by each airline, and more.

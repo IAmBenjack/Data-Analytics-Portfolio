@@ -60,7 +60,7 @@ In this project, I applied design and visualization principles to create impactf
 [Link to Visualization](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/Monthlydelaysstackedbarchart/MonthlyDelaysbyType)
 <br />![Annotation 2022-08-13 123616](https://user-images.githubusercontent.com/110986193/184491953-f6509e4e-6d21-4ac5-8cab-ab7abb4f9c94.png)
 
-#### Dashboard Visualizatio_3
+#### Dashboard Visualization_3
 [Link to Dashboard](https://public.tableau.com/app/profile/oluwabukunmi.ajayi/viz/ReasonsforDelayandCausesofFlightCancellation/Dashboard1)
 <br />![Annotation 2022-08-13 123655](https://user-images.githubusercontent.com/110986193/184491946-104dd28b-ada8-4ce5-a4e2-c5bac6ff76c2.png)
 
